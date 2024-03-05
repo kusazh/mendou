@@ -1,0 +1,2 @@
+# mendou
+mendoukusai
